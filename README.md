@@ -3,7 +3,7 @@
 - 🌱 I'm currently on the hunt seeking knowledge.
 - 💞️ I’m looking to collaborate on Basics.
 - 📫 give me a mail with genuine message. 
-- [Vamsi Madhav Kota] kvamsimadhav008@gmail.com
+  - kvamsimadhav008@gmail.com
 
 <!---
 VamsiMadhavKota/VamsiMadhavKota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
